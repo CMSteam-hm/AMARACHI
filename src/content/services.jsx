@@ -1,11 +1,11 @@
 export const services = [
     {
-      icon: "src/assets/actions/frontend.png",
+      icon: "src/assets/actions/backend.jpg",
       title: "Web design (Front-end)",
       description: "Creating web design using React javascript for the best user experience",
     },
     {
-      icon: "src/assets/actions/backend.jpg",
+      icon: "src/assets/actions/frontend.png",
       title: "Web Design (Back-end)",
       description: "Configurationg of web backend using Node javascript for a better user interactivity",
     },
