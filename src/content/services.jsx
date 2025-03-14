@@ -1,35 +1,24 @@
 export const services = [
     {
       icon: "/images/backend.jpg",
-      title: "Web design (Front-end)",
-      description: "Creating web design using React javascript for the best user experience",
+      title: "Virtual Assistant",
+      description: "IT support using CRM tools like Hubspot,Fresh Desk",
     },
     {
       icon: "/images/frontend.png",
-      title: "Web Design (Back-end)",
-      description: "Configurationg of web backend using Node javascript for a better user interactivity",
+      title: "Project Manager",
+      description: "efficient in using project management tools like Asana and Trello",
     },
     {
       icon: "/images/wireframe.png",
-      title: "UI/UX (Flowchart and Wireframing)",
-      description: "Bringing a very interactive user experience layout",
+      title: "Travel Planner",
+      description: "Organising travel itinaries, flight and hotel reservation",
     },
 
     {
       icon: "/images/cloud.png",
-      title: "Cloud Computing",
+      title: "Air BnB",
       description: "Database Infrastructure Design with configuration",
     },
 
-    {
-      icon: "/images/hackaton1.png",
-      title: "Software Design",
-      description: "Using the C-language to design software for different companies in different industries",
-    },
-
-    {
-      icon: "/images/tutor.png",
-      title: "Coding Instructor",
-      description: "Impacting others with the knowledge of coding to bring about creative and innovative minds",
-    },
   ];
