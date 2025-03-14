@@ -34,14 +34,14 @@
   }
   
   .send {
-    background-color: #6cf5c2;
+    background-color: #cc2084;
     border: none;
     border-radius: 5px;
     font-size: 16px;
   }
   
   .send:hover {
-    background-color: #1fffad;
+    background-color: #cc2084;
     cursor: pointer;
   }
   

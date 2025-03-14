@@ -36,7 +36,7 @@ export const Header = () => {
             setMobileNavigation(true);
             document.body.style.overflow = "hidden";
           }}
-          src="\images\leo1.jpg"
+          src="\images\football.png"
           alt="menu"
         />
       ) : (
