@@ -18,7 +18,7 @@ export const Activities = () => {
       >
         <img
           className={styles.icon}
-          src="src/assets/actions/backarrow.png"
+          src="/images/backarrow.png"
           alt=""
         />
       </button>
@@ -38,7 +38,7 @@ export const Activities = () => {
       >
         <img
           className={styles.icon}
-          src="src/assets/actions/forwardarrow.png"
+          src="/images/forwardarrow.png"
           alt=""
         />
       </button>

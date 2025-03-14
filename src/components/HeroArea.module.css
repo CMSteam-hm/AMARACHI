@@ -25,17 +25,17 @@
   }
   
   .project {
-    background-color: #2c2851;
+    background-color: rgb(175, 21, 236);
     color: white;
   }
   
   .project:hover {
     cursor: pointer;
-    color: #19c485;
+    color:rgb(230, 219, 235);
   }
   
   .hire {
-    background-color: #19c485;
+    background-color: #e2e60e;
     color: white;
   }
   

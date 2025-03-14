@@ -3,10 +3,10 @@ import styles from "./HeroArea.module.css";
 export const HeroArea = () => {
   return (
     <section className={styles.wrapper}>
-      <img className={styles.profile} src="src\assets\actions\leo1.jpg" alt="profile" />
-      <h1 className="title">Hi, I'm KADRI!</h1>
+      <img className={styles.profile} src="/images/amara1.jpg" alt="profile" />
+      <h1 className="title">Hi, I'm AMARACHI!</h1>
       <p className="description">
-        An  intermediate DevOps
+        An  Adminitrator
       </p>
       <div className={styles.buttonBox}>
         <button
