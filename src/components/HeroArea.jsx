@@ -6,7 +6,7 @@ export const HeroArea = () => {
       <img className={styles.profile} src="/images/amara1.jpg" alt="profile" />
       <h1 className="title">Hi, I'm AMARACHI!</h1>
       <p className="description">
-        An  Adminitrator
+        An  Administrator
       </p>
       <div className={styles.buttonBox}>
         <button

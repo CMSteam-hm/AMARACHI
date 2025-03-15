@@ -3,9 +3,9 @@ import styles from "./Footer.module.css";
 export const Footer = () => {
   return (
     <footer className={styles.wrapper}>
-      <h1 className={styles.title}>AMARACHI GRACE EZE</h1>
+      <h1 className={styles.title}>AMARACHI GRACE NNADI</h1>
       <p>Cedar County Estate, Sangotedo, Ajah, Lagos.</p>
-      <p>+234 8130211548 | amarah54809@yahoomail.com</p>
+      <p>+234 8130211548 | amarah1583@gmail.com</p>
       <div className={styles.socials}>
        
         <a href="" target="_blank" rel="noopener noreferrer">
